@@ -19,7 +19,7 @@ Recommended reading order:
 ## Table of contents
 
 - [Fundamentals](#fundamentals)
-  * [Introduction to machine learning](#introduction-to-machine-learning)
+  * [x] [Introduction to machine learning](#introduction-to-machine-learning)
   * [Transformers](#transformers)
   * [Key foundation model architectures](#key-foundation-model-architectures)
   * [Training and finetuning](#training-and-finetuning)
