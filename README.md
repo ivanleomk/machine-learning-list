@@ -56,18 +56,18 @@ Recommended reading order:
 
 **Tier 1**
 
-- [A short introduction to machine learning](https://www.alignmentforum.org/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)
-- [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk&t=0s)
-- [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [x] [A short introduction to machine learning](https://www.alignmentforum.org/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)
+- [x] [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk&t=0s)
+- [x] [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
 **Tier 2**
 
-- [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
-- [An introduction to deep reinforcement learning](https://thomassimonini.medium.com/an-introduction-to-deep-reinforcement-learning-17a565999c0c)
+- [x] [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
+- [x] [An introduction to deep reinforcement learning](https://thomassimonini.medium.com/an-introduction-to-deep-reinforcement-learning-17a565999c0c)
 
 **Tier 3**
 
-- [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [x] [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
 
 ### Transformers
