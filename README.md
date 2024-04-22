@@ -68,7 +68,7 @@ Recommended reading order:
 **Tier 3**
 
 - [x] [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
-- [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
+- [x] [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
 
 ### Transformers
 
@@ -76,9 +76,9 @@ Recommended reading order:
 
 - [x] ✨ [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - [x] ✨ [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)
-- [the transformer ... “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
-- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
-- [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
+- [x] [the transformer ... “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
+- [x] [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [x] [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 
 **Tier 2**
 
