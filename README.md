@@ -74,8 +74,8 @@ Recommended reading order:
 
 **Tier 1**
 
-- ✨ [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
-- ✨ [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+- [x] ✨ [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
+- [x] ✨ [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 - [the transformer ... “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
